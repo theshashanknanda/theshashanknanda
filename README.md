@@ -1,4 +1,4 @@
 ### Hi there 👋
- 🔭 I'm currently working on Java
- 🌱 I’m currently learning Bootstrap
- 😄 Pronouns: He/Him
+ 🔭 I'm currently working on Java <br/>
+ 🌱 I’m currently learning Bootstrap <br/>
+ 😄 Pronouns: He/Him <br/>
