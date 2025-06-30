@@ -1,14 +1,5 @@
 # Hey Everyone! I'm Shashank Nanda
 <br><br>
-<a href="https://www.linkedin.com/in/shashank-nanda-36b60424b/">
-  <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/theshashanknanda">
-  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Shashank8888/"  target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
-</a>
 
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
@@ -29,3 +20,13 @@
 
 
 </div>
+
+<a href="https://www.linkedin.com/in/shashank-nanda-36b60424b/">
+  <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/theshashanknanda">
+  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Shashank8888/"  target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
+</a>
