@@ -2,7 +2,7 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> A Web Developer, Devops Architecture & A Web3 + GenAI Enthusiast </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A Web Developer, Devops Architect & A Web3 + GenAI Enthusiast </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
