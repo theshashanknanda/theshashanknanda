@@ -121,33 +121,3 @@
   </span>
   
 <hr>
-  
-### ✍️ Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
-- [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
-- [Getting Started with Content Writing and Blog Writing](https://medium.com/@amandewatnitrr/getting-started-with-content-writing-and-blog-writing-52cc6a7440b4?source=rss-e69b5e669025------2)
-- [What you need to know as a Hardware and IoT Engineer?? How to Begin...](https://medium.com/@amandewatnitrr/what-you-need-to-know-as-a-hardware-and-iot-engineer-how-to-begin-f85ef44b06a?source=rss-e69b5e669025------2)
-- [My First Hackathon...Summed Up](https://medium.com/@amandewatnitrr/my-first-hackathon-summed-up-48187d27e513?source=rss-e69b5e669025------2)
-<!-- BLOG-POST-LIST:END -->
-
-  
-<hr>
-  
-<br>
-
-
- ### 🏆 GitHub Profile Trophy:
- <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
- </a>
- </p>
-
-### 🔖 Holopins:
-  
-[![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=amandewatnitrr)](https://holopin.io/@amandewatnitrr)
-
-<br>  
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
