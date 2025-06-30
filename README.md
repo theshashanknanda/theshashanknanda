@@ -11,7 +11,7 @@
 - 💻 Full Stack Developer | ⚙️ Web3 & Blockchain Explorer | 🤖 Gen AI Enthusiast
 - 📍 Based in Toronto, Canada
 - 🌐 Building modern, secure, and intelligent web applications
-- 📚 Former Android Developer Intern | Currently volunteering at Enactus Seneca
+- 📚 Former Android Developer Intern | Currently volunteering at Enactus
 - 🛠️ Passionate about clean code, scalable systems, and cutting-edge tech
 - 🎓 Pursuing Computer Programming at Seneca College
 - 🚀 Focused on Full Stack Development, Web3, and Generative AI
