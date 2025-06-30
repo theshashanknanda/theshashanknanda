@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/amandewatnitrr)
+# Hey Everyone! I'm Shashank Nanda
 <br><br>
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
