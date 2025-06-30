@@ -1,19 +1,19 @@
 # Hey Everyone! I'm Shashank Nanda
 <br><br>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/shashank-nanda-36b60424b/">
+  <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/amandewatnitrr">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://github.com/theshashanknanda">
+  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
+<a href="https://leetcode.com/u/Shashank8888/"  target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An Web Developer, Devops Architecture ☁  & A Web3 + GenAI Enthusiast </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Web Developer, Devops Architecture & A Web3 + GenAI Enthusiast </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
