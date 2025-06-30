@@ -1,7 +1,5 @@
 # Hey Everyone! I'm Shashank Nanda
-<br><br>
 
-<br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> A Web Developer, Devops Architecture & A Web3 + GenAI Enthusiast </samp></h4></p>
