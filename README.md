@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 💻 Full Stack Developer | ⚙️ Web3 & Blockchain Explorer | 🤖 Gen AI Enthusiast
+- 💻 Full Stack Developer | ⚙️ DevOps Explorer | 🤖 Gen AI Enthusiast
 - 📍 Based in Toronto, Canada
 - 🌐 Building modern, secure, and intelligent web applications
 - 📚 Former Android Developer Intern | Currently volunteering at Enactus
